@@ -1,41 +1,44 @@
+# This repogitory is forked from https://github.com/florinpop17/app-ideas
+
+* 自分用の進捗管理メモです
+* 日本語は意訳してます
+
+---
+
 ## :ledger: App Ideas Collection
 
 ![App Ideas Image](./app-ideas.png)
 
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](./CONTRIBUTING.md)
+なにか作りたいけどアイディアがない、なんてことはありませんか？  
+文字書きの人が Writers block を持ってるように、開発者にもそれが必要ですよね。  
+このリストはそんな問題を解決するためにあります！👍
 
-Have you ever wanted to build something but you had no idea what to do? Just as
-authors sometimes have "writers block" it's also true for developers. This list is intended to solve this issue once and for all! 👍
+このリストに書かれているアプリケーションは、
+* あなたのコーディングスキルの向上に役立ちます :muscle:
+* 新たな技術の実験に役立ちます🆕
+* ポートフォリオに追加することで、転職先やクライアント先に印象付けるのに役立ちます :file_folder:
+* 記事やビデオのチュートリアルのサンプルとして使えます :page_with_curl:
+* 簡単に完了でき、新機能の拡張も簡単にできます :ok_hand:
 
-These applications are:
+このリストは単なるプロジェクトのリストではなく、それぞれのプロジェクトで必要なことを詳細に説明していて、ゼロから開発できるようにしてあります。
 
-- great for improving your coding skills :muscle:;
-- great for experimenting with new technologies 🆕;
-- great for adding to your portfolio to impress your next employer/client :file_folder:;
-- great for using as examples in tutorials (articles or videos) :page_with_curl:;
-- easy to complete and also easily extendable with new features :ok_hand:;
+それぞれのプロジェクトは、下記の **機能** があります。
+1. 明確で詳細な目的
+1. 実装すべきユーザーストーリー（実装必須なTODOというよりはガイドラインのようなものです。好きに追加してもらって大丈夫です）
+1. スキルを更に向上させるような基本機能を改善するおまけ機能（ただし、まずは基本機能を完成させてから取り組んでください）
+1. プロジェクトを完遂させるのに必要なデータだったりリンク
 
-This is not just a simple list of projects, but a collection that describes each project in enough detail so that you can develop it from the ground up!
+このリポジトリの使い方は [ビデオ](https://www.youtube.com/watch?v=TNzCfgwIDCY) を参考にしてください。
 
-Each project has the following **features**:
+## プロジェクト
 
-1. A clear and descriptive objective;
-2. A list of _User Stories_ which should be implemented (these stories act more as a guideline than a forced list of _To-Do's_. Feel free to add your own stories if you want);
-3. A list of bonus features that not only improve the base project, but also your skills at the same time (these are optional and should be attempted only after you have completed the required user stories)
-4. All the resources and links to help you find what you need to complete the project
+プロジェクトは、完遂させるのに必要な知識や経験をベースに3段階にレベルを分けています。
 
-Here you can [watch a video about this repository](https://www.youtube.com/watch?v=TNzCfgwIDCY).
-
-## Projects
-
-Projects are divided into three tiers based on the knowledge and experience
-required to complete them.
-
-| Tier | Developer Profile                                                                                                                                                |
+| 難易度 | 開発内容説明 |
 | :--: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  1   | Developers in the early stages of their learning journey. Those who are typically focused on creating user-facing applications.                                  |
-|  2   | Developers at an intermediate stage of learning and experience. They are comfortable in UI/UX, using development tools, and building apps that use API services. |
-|  3   | Developers who have all of the above, and are learning more advanced techniques like implementing backend applications and database services.                    |
+|  1   | 駆け出しの初級者向け。ユーザー向けのアプリケーション作成が主です。|
+|  2   | 学習と経験を積んできた中級者向け。UI/UXに慣れていて、開発ツールを使い、APIサービスを伴ったアプリケーションを作成します。 |
+|  3   | 1と2のすべてのアプリを作成した上級者向け。バックエンドのアプリケーションやデータベースなどの高度な手法を扱う。 |
 
 🌟 - New Project
 
